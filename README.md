@@ -2,9 +2,9 @@
 
 A versatile task tracking application featuring both a **Command Line Interface (CLI)** and a **REST API** built with Node.js, Express, and MongoDB (Mongoose).
 
-This project is a solution for the [Task Tracker project on roadmap.sh](https://roadmap.sh/projects/task-tracker).
+> **Project URL**: https://roadmap.sh/projects/task-tracker
 
-Project URL: https://roadmap.sh/projects/task-tracker
+This project is a solution for the [Task Tracker](https://roadmap.sh/projects/task-tracker) project on [roadmap.sh](https://roadmap.sh).
 
 ---
 
